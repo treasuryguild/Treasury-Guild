@@ -1,6 +1,6 @@
-# Treasury Guild
+## Treasury Guild
 
-Important links
+# Links to repos
 
 - [Cardano4Climate](https://github.com/treasuryguild/Cardano4Climate)
 - [Community Governance Oversight](https://github.com/treasuryguild/Community-Governance-Oversight)
