@@ -3,4 +3,6 @@
 Important links
 
 - [Cardano4Climate](https://github.com/treasuryguild/Cardano4Climate)
+- [Community Governance Oversight](https://github.com/treasuryguild/Community-Governance-Oversight)
+- [Catalyst Swarm](https://github.com/treasuryguild/Catalyst-Swarm)
 
