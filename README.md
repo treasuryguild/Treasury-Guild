@@ -7,5 +7,5 @@
 - [Community Governance Oversight](https://github.com/treasuryguild/Community-Governance-Oversight)
 - [Catalyst Swarm](https://github.com/treasuryguild/Catalyst-Swarm)
 - [Bridge Builders](https://github.com/treasuryguild/Bridge-Builders)
-- [NFt Guild](https://github.com/treasuryguild/NFT-Guild)
+- [NFT Guild](https://github.com/treasuryguild/NFT-Guild)
 
