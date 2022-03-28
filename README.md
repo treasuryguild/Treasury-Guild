@@ -8,4 +8,5 @@
 - [Catalyst Swarm](https://github.com/treasuryguild/Catalyst-Swarm)
 - [Bridge Builders](https://github.com/treasuryguild/Bridge-Builders)
 - [NFT Guild](https://github.com/treasuryguild/NFT-Guild)
+- [Training and Automation](https://github.com/treasuryguild/Training-and-Automation)
 
